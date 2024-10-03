@@ -27,7 +27,6 @@ public:
         {
             value = 0;
             if (l1 == nullptr) {
-                cout << 0 << " + ";
                 value = 0;
             } else {
                 value = l1->val;

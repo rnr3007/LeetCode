@@ -1,6 +1,7 @@
 # LeetCode Training
 ## What is it?
-This is a LeetCode training repository solved by me alone in order to achieve strong c++ skills
+This is a LeetCode training repository solved by me alone in order to achieve strong c++ skills.
+Some cases solved using algorithm found on the internet that translated into c++ code.
 
 ## How to build and run the code
 ### In Windows

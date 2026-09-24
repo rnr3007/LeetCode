@@ -14,6 +14,6 @@ int main(){
     TreeNode* t2 = buildTree(l2Vector);
 
     Solution s;
-    cout << s.check(t1, t2);
+    cout << s.isSameTree(t1, t2);
     return 0;
 }

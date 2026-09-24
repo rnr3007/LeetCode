@@ -1,5 +1,5 @@
 #include <vector>
-#include "struct.h"
+#include "../0. Misc/structs.h"
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

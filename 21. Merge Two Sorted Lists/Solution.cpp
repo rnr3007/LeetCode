@@ -1,5 +1,5 @@
 #include <iostream>
-#include "struct.h"
+#include "../0. Misc/structs.h"
 
 using namespace std;
 
